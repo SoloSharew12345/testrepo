@@ -1,2 +1,2 @@
-
-display("first pyhton code")
+#second phyton code
+print("first phyton code")
